@@ -7,11 +7,11 @@
     </div>
   </div>
 
-  <div class="bg-green-500 px-10 py-5">
+  <div class="bg-yellow-500 px-10 py-5">
     <!-- //vue의 반복문 v-for (변수명, index) in data  -->
     <!-- //vue에서 인라인에 함수 쓸 때는
         : 클론 쓰면 됨 -->
-    <a class="text-white" v-for="(menuName, i) in menusName" :key="i">{{
+    <a class="text-white mx-5" v-for="(menuName, i) in menusName" :key="i">{{
       menuName
     }}</a>
   </div>
