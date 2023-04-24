@@ -7,7 +7,7 @@
     </div>
   </div>
 
-  <div class="bg-blue-500 px-10 py-5">
+  <div class="bg-red-500 px-10 py-5">
     <!-- //vue의 반복문 v-for (변수명, index) in data  -->
     <!-- //vue에서 인라인에 함수 쓸 때는
         : 클론 쓰면 됨 -->
