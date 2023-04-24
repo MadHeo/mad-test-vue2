@@ -7,7 +7,7 @@
     </div>
   </div>
 
-  <div class="bg-red-500 px-10 py-5">
+  <div class="bg-green-500 px-10 py-5">
     <!-- //vue의 반복문 v-for (변수명, index) in data  -->
     <!-- //vue에서 인라인에 함수 쓸 때는
         : 클론 쓰면 됨 -->
@@ -29,7 +29,7 @@
   <div v-for="(oneRoomData, i) in oneRoom" :key="i">
     <img class="w-100% mt-8" :src="oneRoomData.image" alt="" />
     <h4
-      class="text-blue hover:bg-violet-600 cursor-pointer"
+      class="text-red hover:bg-violet-600 cursor-pointer"
       @click="isModalOn = true"
       :style="st"
     >
