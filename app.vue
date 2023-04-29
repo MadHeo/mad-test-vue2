@@ -5,10 +5,6 @@
   </div>
 </template>
 
-<script setup>
-import "@/src/tailwind.css";
-</script>
-
 <style>
 body {
   margin: 0px;
