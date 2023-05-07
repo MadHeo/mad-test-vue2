@@ -14,7 +14,7 @@
 export default {
   data() {
     return {
-      menusName: ["home", "products", "game"],
+      menusName: ["home", "products", "game", "new"],
     };
   },
 };

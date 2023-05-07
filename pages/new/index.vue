@@ -1,8 +1,8 @@
 <template>
-  <div>홈</div>
+  <newBook></newBook>
 </template>
 
 <style>
-.test {
+.bod {
 }
 </style>
