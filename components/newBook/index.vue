@@ -9,7 +9,7 @@
       <button @click="isModalOn = false">X</button>
       <div></div>
 
-      <img class="w-50 h-50" src="/webb1.jpg" alt="" />
+      <img class="w-25 h-25" src="/webb1.jpg" alt="" />
       <h4>책 제목</h4>
       <p>책 저자</p>
     </div>
