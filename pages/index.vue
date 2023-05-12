@@ -1,6 +1,4 @@
-<template>
-  <div>홈</div>
-</template>
+<template></template>
 
 <style>
 .test {
